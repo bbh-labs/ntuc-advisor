@@ -1,0 +1,13 @@
+@font-face {
+	font-family: "Avant Garde";
+	src: url("fonts/ITC Avant Garde CE Gothic Book.ttf");
+}
+
+h1, h2, h3, h4, h5, h6, p, a, span, label, input, section {
+	font-family: "Avant Garde", "Helvetica", "Arial", sans-serif;
+}
+
+/* disable ability to add new tags through the Tag-It input field */
+.tagit-new {
+	display: none !important;
+}

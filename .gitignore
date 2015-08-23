@@ -1,0 +1,4 @@
+*.swp
+*~
+
+*.module-cache
