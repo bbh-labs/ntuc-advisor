@@ -16,6 +16,7 @@ var Search = React.createClass({
 			<section>
 				<div className="row">
 					<h4>Adviser Preferences</h4>
+					<p>Find the advisor you like</p>
 					<div className="row" style={this.styles.filters}>
 						<Search.Field onInput={this.onInput} q={this.state.q} />
 						<Search.Category id="product" active={this.state.activeCategory == "product"} onClick={this.onClick}>Product</Search.Category>
