@@ -344,7 +344,7 @@ Search.Result = React.createClass({displayName: "Result",
 					continue;
 				}
 				advisers = findAdvisers(advisers, filteredAdvisers, function(a) {
-					return a.gender.indexOf(CATEGORIES.gender[i]) >= 0;
+					return a.gender == CATEGORIES.gender[i];
 				});
 			}
 			filteredAdvisers = advisers;
