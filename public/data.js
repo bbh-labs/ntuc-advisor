@@ -79,6 +79,76 @@ var ADVISERS =
 		"product": ["whole life insurance", "saving plans", "motor insurance"],
 		"avatar": "images/picture05.jpg",
 		"shortDescription": "Lorem ipsum dolor sit amet consectetur adipiscing elit."
+	},
+	{
+		"name": "James Ong",
+		"gender": "male",
+		"age": 41,
+		"language": ["mandarin", "english"],
+		"interest": ["reading", "soccer", "golf"],
+		"product": ["saving plans", "motor insurance", "investment linked products"],
+		"avatar": "images/picture08.jpg",
+		"shortDescription": "Lorem ipsum dolor sit amet consectetur adipiscing elit."
+	},
+	{
+		"name": "Regis Cabaret",
+		"gender": "male",
+		"age": 37,
+		"language": ["english"],
+		"interest": ["music", "soccer", "cooking and baking"],
+		"product": ["health / medical insurance", "personal incident plans", "other general insurance"],
+		"avatar": "images/picture09.jpg",
+		"shortDescription": "Lorem ipsum dolor sit amet consectetur adipiscing elit."
+	},
+	{
+		"name": "Usman Sheikh",
+		"gender": "male",
+		"age": 32,
+		"language": ["english"],
+		"interest": ["travelling", "basketball", "music"],
+		"product": ["whole life insurance", "personal incident plans", "travel insurance"],
+		"avatar": "images/picture10.jpg",
+		"shortDescription": "Lorem ipsum dolor sit amet consectetur adipiscing elit."
+	},
+	{
+		"name": "Saunders Shen",
+		"gender": "male",
+		"age": 35,
+		"language": ["english", "mandarin"],
+		"interest": ["food", "basketball", "movies and drama", "animals"],
+		"product": ["whole life insurance", "savings plan", "motor insurance"],
+		"avatar": "images/picture11.jpg",
+		"shortDescription": "Lorem ipsum dolor sit amet consectetur adipiscing elit."
+	},
+	{
+		"name": "Brandon Edwards",
+		"gender": "male",
+		"age": 37,
+		"language": ["english"],
+		"interest": ["art and craft", "soccer", "animals"],
+		"product": ["travel insurance", "savings plan", "investment linked products"],
+		"avatar": "images/picture12.jpg",
+		"shortDescription": "Lorem ipsum dolor sit amet consectetur adipiscing elit."
+	},
+	{
+		"name": "Kok Boon Lee",
+		"gender": "male",
+		"age": 44,
+		"language": ["mandarin", "english"],
+		"interest": ["art and craft", "soccer", "movies and drama"],
+		"product": ["personal incident plans", "health / medical insurance", "motor insurance"],
+		"avatar": "images/picture13.jpg",
+		"shortDescription": "Lorem ipsum dolor sit amet consectetur adipiscing elit."
+	},
+	{
+		"name": "Rani Saad",
+		"gender": "male",
+		"age": 38,
+		"language": ["english"],
+		"interest": ["soccer", "basketball", "travelling", "music", "cooking and baking"],
+		"product": ["whole life insurance", "saving plans", "health / medical insurance", "motor insurance"],
+		"avatar": "images/picture14.jpg",
+		"shortDescription": "Lorem ipsum dolor sit amet consectetur adipiscing elit."
 	}
 ];
 
