@@ -23,7 +23,7 @@ var Header = React.createClass({displayName: "Header",
 					React.createElement("div", {style: this.styles.label, className: "small-6 columns"}, 
 						React.createElement("h1", null, "ADVISER CONNECT"), 
 						React.createElement("h5", null, "Whether it's at home or on the go, chatting with a financial planner has never been easier."), 
-						React.createElement("button", {style: this.styles.button}, "Submit an enquiry online")
+						React.createElement("button", {style: this.styles.button}, " Don't want to chat now? Submit an enquiry online")
 					)
 				)
 			)

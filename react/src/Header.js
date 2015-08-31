@@ -23,7 +23,7 @@ var Header = React.createClass({
 					<div style={this.styles.label} className="small-6 columns">
 						<h1>ADVISER CONNECT</h1>
 						<h5>Whether it's at home or on the go, chatting with a financial planner has never been easier.</h5>
-						<button style={this.styles.button}>Submit an enquiry online</button>
+						<button style={this.styles.button}> Don't want to chat now? Submit an enquiry online</button>
 					</div>
 				</div>
 			</header>
