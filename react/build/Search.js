@@ -15,7 +15,7 @@ var Search = React.createClass({displayName: "Search",
 		return (
 			React.createElement("section", null, 
 				React.createElement("div", {className: "row"}, 
-					React.createElement("h4", null, "Chose your preferences and connect with an Adviser away"), 
+					React.createElement("h4", null, "Chose your preferences and connect with an Adviser right away"), 
 					React.createElement("div", {className: "row", style: this.styles.filters}, 
 						React.createElement(Search.Field, {onInput: this.onInput, q: this.state.q}), 
 						React.createElement(Search.Category, {id: "product", active: this.state.activeCategory == "product", onClick: this.onClick}, "Product"), 
